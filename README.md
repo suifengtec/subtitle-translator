@@ -30,7 +30,7 @@ translated
 
 ## Source Code
 
-[the initial version code ](./src)
+[V1.0.0 code ](./src)
 
 ## Softwares Used
 
