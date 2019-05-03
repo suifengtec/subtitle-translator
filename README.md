@@ -49,7 +49,7 @@ pip install PyQt5 fbs requests pysrt  googletrans
 
 ```
 
-## 快捷键的使用/ shortcuts
+## Shortcuts
 
 Ctrl+F : Find and open a subtitle file；
 
