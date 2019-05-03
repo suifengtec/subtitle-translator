@@ -21,7 +21,7 @@ from serviceTranslate import ServiceTranslate
 
 
 # TODO: 拖放支持,支持文件拖放;
-# TODO:  添加对 ass等其他格式字幕的支持;
+# TODO:  添加对 ssa 等其他格式字幕的支持;
 # TODO:  添加字幕转换功能;
 
 class MainWindow(QMainWindow, Ui_MainWindow):
@@ -123,7 +123,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         elif parseRtn == 2:
             self.setSB("文件路径为空?")
         elif parseRtn == 3:
-            self.setSB("不被支持的文件扩展名,仅支持srt,ass类型的字幕文件")
+            self.setSB("不被支持的文件扩展名,仅支持srt,ssa类型的字幕文件")
         elif parseRtn == 666:
             self.setSB("尚未支持的字幕格式")
         elif parseRtn == 999:
@@ -248,7 +248,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         Slot documentation goes here.
         """
         filePath, _ = QFileDialog.getOpenFileName(
-            self, "Open File", "", "subtitle(*.srt *.ass)")
+            self, "Open File", "", "subtitle(*.srt *.ssa)")
         if not os.path.exists(filePath):
             self.setSB("Not Found: {0}".format(filePath))
         else:

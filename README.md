@@ -27,6 +27,22 @@ translated
 
 [V1.0.0](https://github.com/suifengtec/subtitle-translator/releases/)
 
+
+## TODOs
+
+- [x] 自动探测字幕文件原来使用的语种;
+- [x] GUI程序;
+- [x] 编译为 Windows 上的可安装包;
+- [x] 可选择翻译为多个语种中的一种语言;
+- [x] 翻译后的字幕文件的重命名方式;
+- [x] 保存为新的字幕文件;
+- [x] 保存为双语种字幕文件;
+- [x] 支持 SubRip (.srt) 类型的字幕文件;
+- [] 支持 SubStation Alpha (.ssa)类型的字幕文件;
+- [] 支持 WebVTT (.vtt)类型的字幕文件;
+- [] 支持 MicroDVD (.sub)类型的字幕文件;
+
+
 ## Source Code
 
 [the initial version code ](./src)
