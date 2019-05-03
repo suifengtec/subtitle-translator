@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project subtitleTranslator -->
+<!-- Saved: 2019-05-03, 08:28:49 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{c20445dd-1527-4f01-84a4-676658b49c81}">
+    <Summary>TODO: 拖放支持,支持文件拖放;</Summary>
+    <Description></Description>
+    <Created>2019-05-03, 08:28:46</Created>
+    <Resource>
+      <Filename>mainwindow.py</Filename>
+      <Linenumber>23</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{aeee7e7b-1bd3-48c2-a93d-ba53a686637e}">
+    <Summary>TODO:  添加对 ass等其他格式字幕的支持;</Summary>
+    <Description></Description>
+    <Created>2019-05-03, 08:28:46</Created>
+    <Resource>
+      <Filename>mainwindow.py</Filename>
+      <Linenumber>24</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6aa26de4-ae86-443c-9dd4-91276265b5fe}">
+    <Summary>TODO:  添加字幕转换功能;</Summary>
+    <Description></Description>
+    <Created>2019-05-03, 08:28:46</Created>
+    <Resource>
+      <Filename>mainwindow.py</Filename>
+      <Linenumber>25</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
