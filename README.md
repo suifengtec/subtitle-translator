@@ -70,6 +70,6 @@ Ctrl+Alt+S : save as a bilingual subtitle file.
 - [x] 保存为新的字幕文件;
 - [x] 保存为双语种字幕文件;
 - [x] 支持 SubRip (.srt) 类型的字幕文件;
-- [] 支持 SubStation Alpha (.ssa)类型的字幕文件;
-- [] 支持 WebVTT (.vtt)类型的字幕文件;
-- [] 支持 MicroDVD (.sub)类型的字幕文件;
+- [ ] 支持 SubStation Alpha (.ssa)类型的字幕文件;
+- [ ] 支持 WebVTT (.vtt)类型的字幕文件;
+- [ ] 支持 MicroDVD (.sub)类型的字幕文件;
