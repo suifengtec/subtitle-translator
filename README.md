@@ -1,7 +1,7 @@
 # subtitle translator
 
 
-srt 字幕翻译软件，翻译功能由谷歌翻译实现。
+字幕翻译软件，翻译功能由谷歌翻译实现。
 
 Translating a subtitle file to any one language, powered by Google Translate.
 
