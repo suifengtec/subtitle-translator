@@ -3,7 +3,7 @@
 
 srt 字幕翻译软件，翻译功能由谷歌翻译实现。
 
-Translating a SubRip (.srt) file to any one language, powered by Google Translate.
+Translating a subtitle file to any one language, powered by Google Translate.
 
 [Project Home Page](http://coolwp.com/subtitle-translator.html)
 
@@ -26,21 +26,6 @@ translated
 ## Release
 
 [V1.0.0](https://github.com/suifengtec/subtitle-translator/releases/)
-
-
-## TODOs
-
-- [x] 自动探测字幕文件原来使用的语种;
-- [x] GUI程序;
-- [x] 编译为 Windows 上的可安装包;
-- [x] 可选择翻译为多个语种中的一种语言;
-- [x] 翻译后的字幕文件的重命名方式;
-- [x] 保存为新的字幕文件;
-- [x] 保存为双语种字幕文件;
-- [x] 支持 SubRip (.srt) 类型的字幕文件;
-- [] 支持 SubStation Alpha (.ssa)类型的字幕文件;
-- [] 支持 WebVTT (.vtt)类型的字幕文件;
-- [] 支持 MicroDVD (.sub)类型的字幕文件;
 
 
 ## Source Code
@@ -66,7 +51,7 @@ pip install PyQt5 fbs requests pysrt  googletrans
 
 ## 快捷键的使用/ shortcuts
 
-Ctrl+F : Find and open a SubRip (.srt) file；
+Ctrl+F : Find and open a subtitle file；
 
 Ctrl+T: the current subtitle file will be translate to the selected language, if no language is selected simplified-Chinese by default .
 
@@ -75,6 +60,16 @@ Ctrl+S : save the translated subtitle file;
 Ctrl+Alt+S : save as a bilingual subtitle file.
 
 
-## Versions
+## TODOs
 
-1.0.0 : init;
+- [x] 自动探测字幕文件原来使用的语种;
+- [x] GUI程序;
+- [x] 编译为 Windows 上的可安装包;
+- [x] 可选择翻译为多个语种中的一种语言;
+- [x] 翻译后的字幕文件的重命名方式;
+- [x] 保存为新的字幕文件;
+- [x] 保存为双语种字幕文件;
+- [x] 支持 SubRip (.srt) 类型的字幕文件;
+- [] 支持 SubStation Alpha (.ssa)类型的字幕文件;
+- [] 支持 WebVTT (.vtt)类型的字幕文件;
+- [] 支持 MicroDVD (.sub)类型的字幕文件;
