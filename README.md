@@ -4,7 +4,7 @@
 srt 字幕翻译软件，翻译功能由谷歌翻译实现。
 translate SubRip (.srt) to anyone language, powered by Google Translate.
 
-[主页](http://coolwp.com/subtitle-translator.html)
+[Project Home Page](http://coolwp.com/subtitle-translator.html)
 
 
 ## UI
@@ -21,6 +21,10 @@ translated
 
 ![](screenshot/002.png)
 
+
+## Release
+
+[V1.0.0](./releases/)
 
 ## Source Code
 
