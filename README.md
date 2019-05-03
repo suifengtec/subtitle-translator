@@ -25,7 +25,7 @@ translated
 
 ## Release
 
-[V1.0.0]([](https://github.com/suifengtec/subtitle-translator/releases/)
+[V1.0.0](https://github.com/suifengtec/subtitle-translator/releases/)
 
 ## Source Code
 
