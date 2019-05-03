@@ -6,7 +6,28 @@ srt 字幕自动翻译软件。
 
 ## 源代码
 
-[在这里](./src)
+初始版本的源代码[在这里](./src)
+
+## 所使用的软件
+
+```
+
+eric6
+Qt Designer
+
+
+```
+
+## 依赖的 Python 包
+```
+
+pip install PyQt5 fbs requests pysrt  googletrans
+
+```
+
+
+
+
 
 ## 版本更新
 
