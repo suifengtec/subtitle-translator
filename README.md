@@ -23,9 +23,9 @@ translated
 ![](screenshot/002.png)
 
 
-## Release
+## Releases
 
-[V1.0.0](https://github.com/suifengtec/subtitle-translator/releases/)
+[Releases](https://github.com/suifengtec/subtitle-translator/releases/)
 
 
 ## Source Code
