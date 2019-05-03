@@ -14,6 +14,7 @@ load a srt file
 ![](screenshot/001.png)
 
 choose a traget language for translation, or it will be simplified-Chinese
+
 ![](screenshot/003.png)
 
 translated
