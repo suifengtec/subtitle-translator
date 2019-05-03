@@ -2,7 +2,8 @@
 
 
 srt 字幕翻译软件，翻译功能由谷歌翻译实现。
-translate SubRip (.srt) to anyone language, powered by Google Translate.
+
+Translating a SubRip (.srt) file to any one language, powered by Google Translate.
 
 [Project Home Page](http://coolwp.com/subtitle-translator.html)
 
