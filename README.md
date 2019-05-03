@@ -1,30 +1,31 @@
 # subtitle translator
 
-srt 字幕自动翻译软件。
+
+srt 字幕翻译软件，翻译功能由谷歌翻译实现。
+translate SubRip (.srt) to anyone language, powered by Google Translate.
 
 [主页](http://coolwp.com/subtitle-translator.html)
 
 
 ## UI
 
-载入字幕文件
+load a srt file
 
 ![](screenshot/001.png)
 
-选择翻译为什么语种,不选的话,翻译为简体中文
-
+choose a traget language for translation, or it will be simplified-Chinese
 ![](screenshot/003.png)
 
-自动翻译后
+translated
 
 ![](screenshot/002.png)
 
 
-## 源代码
+## Source Code
 
-初始版本的源代码[在这里](./src)
+[the initial version code ](./src)
 
-## 所使用的软件
+## Softwares Used
 
 ```
 
@@ -34,25 +35,24 @@ Qt Designer
 
 ```
 
-## 依赖的 Python 包
+## Dependent Python packages
 ```
 
 pip install PyQt5 fbs requests pysrt  googletrans
 
 ```
 
-## 快捷键的使用
+## 快捷键的使用/ shortcuts
 
-Ctrl+F : 查找/打开字幕文件,默认支持srt 类型的字幕；
+Ctrl+F : Find and open a SubRip (.srt) file；
 
-Ctrl+T: 翻译该字幕文件，如果没有选择语种的话，将默认翻译为简体中文；
+Ctrl+T: the current subtitle file will be translate to the selected language, if no language is selected simplified-Chinese by default .
 
-Ctrl+S : 保存翻译后的字幕文件；
+Ctrl+S : save the translated subtitle file;
 
-Ctrl+Alt+S : 保存为双语种字幕文件
+Ctrl+Alt+S : save as a bilingual subtitle file.
 
 
+## Versions
 
-## 版本更新
-
-1.0.0 :初始发布;
+1.0.0 : init;
