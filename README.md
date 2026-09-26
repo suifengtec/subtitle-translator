@@ -5,7 +5,7 @@
 
 Translating a subtitle file to any one language, powered by Google Translate.
 
-[Project Home Page](http://coolwp.com/subtitle-translator.html)
+
 
 
 ## UI
